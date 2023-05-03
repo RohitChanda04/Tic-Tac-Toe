@@ -8,7 +8,7 @@ A simple implementation of the ***"Tic Tac Toe"*** game made with love and passi
 
 >Framework used: None
 
->Solely because I wanted to keep this as a fairly straightforwarded application that could run on the terminal while taking the input                  from the user through built-in modules and packages of Python using promots.
+>Solely because I wanted to keep this as a fairly straightforwarded application that could run on the terminal while taking the input                  from the user through built-in modules and packages of Python using prompts.
 
 Although this could be implemented in a single Python script file, I have implemented the modular apporach so that it could be modified and new funcitonalities could be added to it easily as you could see in the other repository ***"AI-Powered-Tic-Tac-Toe"***.
 
@@ -22,7 +22,7 @@ Just like how you need to have **JRE** installed on your system in order to run 
 
 Download the repository on to your system and extract the project files and folders from the zip folder to the location where you want it to be in. Open your terminal/console/command prompt and navigate to the folder where the project is, then run the following command -
 
->python RunTicTacToe.py
+>python TicTacToe.py
 
 Once you hit 'enter', the game starts and you see a sequence of prompts as explained in the next section.
 
